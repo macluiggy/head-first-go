@@ -19,6 +19,7 @@ func main() {
 	target := rand.Intn(100) + 1
 	fmt.Println("I've chosen a number between 1 and 100.\nCan you guess it?")
 	// fmt.Println(target, "aqui esta el target")
+	// fmt.Printf("A integer: %d\n", target)
 
 	reader := bufio.NewReader(os.Stdin)
 
