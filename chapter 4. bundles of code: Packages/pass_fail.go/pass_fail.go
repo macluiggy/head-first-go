@@ -3,7 +3,7 @@ package main
 
 import (
 	"fmt"
-	"keyboard"
+	"head/src/keyboard"
 	"log"
 )
 

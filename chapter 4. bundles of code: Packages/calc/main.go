@@ -1,8 +1,8 @@
 package main
 
 import (
-	"calc"
 	"fmt"
+	"head/src/calc"
 	"log"
 )
 

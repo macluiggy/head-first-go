@@ -2,8 +2,12 @@ package main
 
 import (
 	"fmt"
-	"keyboard"
 	"log"
+)
+
+// local imports
+import (
+	"head/src/keyboard"
 )
 
 func main() {
