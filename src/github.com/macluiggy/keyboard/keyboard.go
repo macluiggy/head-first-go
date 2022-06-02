@@ -2,7 +2,6 @@ package keyboard
 
 import (
 	"bufio"
-	// "github.com/headfirstgo/greeting"
 	"os"
 	"strconv"
 	"strings"

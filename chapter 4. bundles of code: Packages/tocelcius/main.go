@@ -7,7 +7,9 @@ import (
 
 // local imports
 import (
-	"head/src/keyboard"
+	// "head/src/github.com/macluiggy/keyboard"
+	// "keyboard" // si tienes go.mod no va a funcionar de esta forma
+	"github.com/headfirstgo/keyboard"
 )
 
 func main() {
