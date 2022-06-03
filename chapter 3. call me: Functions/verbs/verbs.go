@@ -1,8 +1,6 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
 	fmt.Printf("%f is the amount of money you have\n", 100.81999999999)
@@ -17,5 +15,4 @@ func main() {
 	fmt.Printf(("%%7.3f: %7.3f\n"), 12222222.23456789)
 	fmt.Printf(("%%7.3f: %7.3f\n"), 123.23456789)
 	fmt.Printf(("%%7.3f: %7.3f\n"), 12.23456789)
-	// SayHi()
 }
