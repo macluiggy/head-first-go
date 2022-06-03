@@ -17,5 +17,5 @@ func main() {
 	fmt.Printf(("%%7.3f: %7.3f\n"), 12222222.23456789)
 	fmt.Printf(("%%7.3f: %7.3f\n"), 123.23456789)
 	fmt.Printf(("%%7.3f: %7.3f\n"), 12.23456789)
-	sayHi()
+	// SayHi()
 }

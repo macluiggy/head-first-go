@@ -1,11 +1,11 @@
 package main
 
 func main() {
-	sayHi()
+	SayHi()
 	repeatLine("Hello", 5)
 }
 
-func sayHi() {
+func SayHi() {
 	println("Hello")
 }
 
